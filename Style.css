@@ -60,7 +60,16 @@ body {
     display: block;
     width: 18%;
     height: 33%;
-    z-index: 0;
+    z-index: 1;
+}
+
+.switch {
+    left: 42%;
+    top: 36%;
+    position: absolute;
+    display: block;
+    width: 2.8%;
+    z-index: 1;
 
 }
 
