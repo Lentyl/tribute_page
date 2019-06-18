@@ -1,5 +1,5 @@
 const screen = document.querySelector('.tvOff');
-const tvSwitch = document.querySelector('.switch');
+const tvSwitch = document.querySelector('.switchBt');
 const fullscreenBT = document.querySelector('.switch2');
 const youTub = document.querySelector('.youTub')
 
